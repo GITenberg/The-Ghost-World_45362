@@ -1,0 +1,30 @@
+_repo: The-Ghost-World_45362
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45362-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dyer, T. F. Thiselton (Thomas Firminger Thiselton)
+    aliases:
+    - Thiselton-Dyer, T. F. (Thomas Firminger)
+    - Dyer, Thomas Firminger Thiselton
+    - Thiselton-Dyer, Thomas Firminger
+    birthdate: 1848
+    gutenberg_agent_id: '7109'
+    url: http://www.gutenberg.org/2009/agents/7109
+description: ''
+gutenberg_issued: '2014-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45362'
+  lccn: '11007064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Ghosts'
+title: The Ghost World
+url: http://www.gutenberg.org/ebooks/45362
